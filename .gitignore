@@ -1,7 +1,13 @@
+<<<<<<< HEAD
+=======
+.rebar3
+_*
+>>>>>>> init
 .eunit
 *.o
 *.beam
 *.plt
+<<<<<<< HEAD
 erl_crash.dump
 .concrete/DEV_MODE
 
@@ -15,3 +21,19 @@ deps
 .rebar3
 _build/
 _checkouts/
+=======
+*.swp
+*.swo
+.erlang.cookie
+ebin
+log
+erl_crash.dump
+.rebar
+logs
+_build
+.idea
+*.iml
+rebar3.crashdump
+*~
+rebar.lock
+>>>>>>> init
